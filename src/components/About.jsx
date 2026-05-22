@@ -187,8 +187,8 @@ export default function About() {
 
           {/* Body copy */}
           {[
-            'Founded in Dhaka, 3Four Studio is a team of engineers, designers, and product thinkers who believe great software is equal parts craft and strategy.',
-            'We partner with startups and growth-stage companies to design, build, and ship digital products that are fast, beautiful, and built to last.',
+            'We design and develop software solutions that help businesses increase efficiency, improve customer experience, and accelerate digital growth.   ',
+            'Our focus is building scalable systems that support long-term business success.',
           ].map((text, i) => (
             <p
               key={i}

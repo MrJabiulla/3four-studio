@@ -36,7 +36,25 @@ export const Model = {
     { value: '3×',   label: 'Avg ROI Delivered'  },
   ],
 
-  skills: ['React', 'Next.js', 'Node', 'React Native', 'AWS', 'Figma'],
+  skills: [
+  'Flutter',
+  'React',
+  'Next.js',
+  'Node.js',
+  'FastAPI',
+  'TypeScript',
+  'PostgreSQL',
+  'Supabase',
+  'Firebase',
+  'React Native',
+  'Docker',
+  'AWS',
+  'Cloudflare',
+  'Figma',
+  'UI/UX',
+  'REST API',
+  'System Design'
+],
 
   aboutCards: [
     { label: 'Engineering', sub: 'React · Node · AWS'              },
