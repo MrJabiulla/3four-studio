@@ -6,7 +6,7 @@ export const Model = {
   brand:    '3Four Studio',
   logo:     '/logo.png',
   tagline:  'We Build Digital Products That Matter.',
-  heroSub:  'A Dhaka-based software studio crafting high-performance web apps, mobile experiences, and brand systems.',
+  heroSub:  'From product strategy and UI/UX design to development and deployment, we build reliable digital solutions that help companies scale confidently.',
   heroImage:'https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=1600&q=90&auto=format&fit=crop',
 
   navLinks: ['Services', 'Work', 'About', 'Contact'],
