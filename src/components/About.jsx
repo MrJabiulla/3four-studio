@@ -111,7 +111,7 @@ function CapCard({ label, sub, delay, visible }) {
         {label}
       </div>
       <div style={{
-        fontFamily: T.fontMono, fontSize: 11,
+        fontFamily: T.fontMono, fontSize: 14,
         color: hov ? T.mutedLight : T.muted,
         letterSpacing: '0.07em', lineHeight: 1.7,
         transition: 'color 0.3s ease',
@@ -229,7 +229,7 @@ export default function About() {
           >
             {Model.skills.map((tag, i) => (
               <span key={tag} style={{
-                fontFamily: T.fontMono, fontSize: 11,
+                fontFamily: T.fontMono, fontSize: 12,
                 color: T.accent,
                 border: `1px solid ${T.accent}35`,
                 borderRadius: 999, padding: '5px 14px',
