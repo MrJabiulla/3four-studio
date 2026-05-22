@@ -48,10 +48,6 @@ export default function Hero({ onCTAClick }) {
       {/* Content */}
       <div className="hero-pad" style={{ position: 'relative', padding: '130px 64px 80px', maxWidth: 980 }}>
 
-        <div style={{ marginBottom: 36 }}>
-          <Badge>Dhaka-Based Software Studio</Badge>
-        </div>
-
         <h1 style={{
           fontFamily: T.fontDisplay,
           fontWeight: T.weightBlack,
