@@ -181,13 +181,13 @@ export default function About() {
               color: T.white, letterSpacing: '-0.03em', lineHeight: 1.0,
               marginBottom: 32,
             }}>
-              We Are<br /><span style={{ color: T.accent }}>3Foure Studio</span>
+              We Are<br /><span style={{ color: T.accent }}>3Four Studio</span>
             </h2>
           </div>
 
           {/* Body copy */}
           {[
-            'Founded in Dhaka, 3Foure Studio is a team of engineers, designers, and product thinkers who believe great software is equal parts craft and strategy.',
+            'Founded in Dhaka, 3Four Studio is a team of engineers, designers, and product thinkers who believe great software is equal parts craft and strategy.',
             'We partner with startups and growth-stage companies to design, build, and ship digital products that are fast, beautiful, and built to last.',
           ].map((text, i) => (
             <p

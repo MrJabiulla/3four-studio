@@ -21,14 +21,14 @@ export default function Footer() {
       }}>
         {/* Logo */}
         <div style={{ display: 'flex', alignItems: 'center', gap: 12 }}>
-          <img src={Model.logo} alt="3Foure Studio" style={{ height: 32, width: 32, borderRadius: 6, objectFit: 'cover' }} />
+          <img src={Model.logo} alt="3Four Studio" style={{ height: 32, width: 32, borderRadius: 6, objectFit: 'cover' }} />
           <span style={{
             fontFamily: T.fontDisplay,
             fontWeight: T.weightBlack,
             fontSize: 15,
             color: T.white,
             letterSpacing: '-0.01em',
-          }}>3Foure Studio</span>
+          }}>3Four Studio</span>
         </div>
 
         {/* Copyright */}

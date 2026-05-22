@@ -3,7 +3,7 @@
 // ============================================================
 
 export const Model = {
-  brand:    '3Foure Studio',
+  brand:    '3Four Studio',
   logo:     '/logo.png',
   tagline:  'We Build Digital Products That Matter.',
   heroSub:  'A Dhaka-based software studio crafting high-performance web apps, mobile experiences, and brand systems.',
@@ -46,12 +46,12 @@ export const Model = {
   ],
 
   testimonials: [
-    { quote: '3Foure delivered our platform 2 weeks early and the quality was exceptional.', author: 'Rafi Hossain',     role: 'CEO, FinTrack'           },
+    { quote: '3Four delivered our platform 2 weeks early and the quality was exceptional.', author: 'Rafi Hossain',     role: 'CEO, FinTrack'           },
     { quote: "They don't just write code — they think about the product. That's rare.",      author: 'Tasnim Akter',    role: 'Product Lead, MedFlow'   },
     { quote: 'Best investment we made. The app doubled our engagement in 3 months.',         author: 'Nabil Chowdhury', role: 'Founder, LogiCore'        },
   ],
 
-  contactEmail: 'hello@3fourestudio.com',
+  contactEmail: 'hello@3fourstudio.com',
   socials: ['GitHub', 'LinkedIn', 'Dribbble'],
   footerYear: new Date().getFullYear(),
   footerLocation: 'Dhaka, Bangladesh',

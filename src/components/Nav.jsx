@@ -25,7 +25,7 @@ export default function Nav({ vm }) {
           style={{ cursor: 'pointer', display: 'flex', alignItems: 'center', gap: 12 }}>
           <img
             src={Model.logo}
-            alt="3Foure Studio"
+            alt="3Four Studio"
             style={{
               height: 40, width: 40,
               objectFit: 'cover',
@@ -39,7 +39,7 @@ export default function Nav({ vm }) {
             color: T.white,
             letterSpacing: '-0.01em',
           }}>
-            3Foure Studio
+            3Four Studio
           </span>
         </div>
 

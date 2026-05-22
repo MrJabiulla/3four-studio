@@ -1,4 +1,4 @@
-# 3Foure Studio — Website
+# 3Four Studio — Website
 
 A Vite + React website built with the MVVM pattern.
 
@@ -33,10 +33,10 @@ The `@font-face` rules in `src/index.css` will pick them up automatically.
 ## Project Structure
 
 ```
-3foure-studio/
+3four-studio/
 ├── public/
 │   ├── fonts/          ← place Cera Pro .woff2 files here
-│   └── logo.png        ← 3Foure logo
+│   └── logo.png        ← 3Four logo
 ├── src/
 │   ├── model.js        ← MODEL: pure data
 │   ├── viewmodels.js   ← VIEW-MODELS: hooks with state & logic
