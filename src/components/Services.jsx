@@ -166,7 +166,7 @@ function ServiceCard({ service, index, visible }) {
 
       {/* Learn more row */}
       <div style={{
-        display: 'flex', alignItems: 'center', gap: 6,
+        display: 'flex', alignItems: 'center',
         color: hovered ? T.accent : T.muted,
         fontFamily: T.fontMono,
         fontSize: 11,
